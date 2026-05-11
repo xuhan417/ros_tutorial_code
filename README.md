@@ -6,7 +6,7 @@ In this tutorial, you'll learn:
 - 02_rostopics
 - 03_ros_param_launch_bag
 - 04_ros_tf
-- 05_ros_slam_demo
+
 
 All the ros packages are in `ros_tutorial_code/ros_tutorial_ws/src`
 
@@ -26,7 +26,6 @@ The structure of this tutorial is:
         ├── 02_rostopics
         ├── 03_ros_param_launch_bag
         ├── 04_ros_tf
-        ├── 05_ros_slam_demo
         └── CMakeLists.txt
 ```
 
