@@ -9,6 +9,8 @@ cd ros_tutorial_ws
 catkin_make --only-pkg-with-deps 01_ros_basic
 # setup environment
 source devel/setup.bash
+# make python script executable
+chomd +x ./src/01_ros_basics/scripts/hello_node.py
 # run ros script
 rosrun 01_ros_basic hello_node.py
 ```
